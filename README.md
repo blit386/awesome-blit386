@@ -18,7 +18,9 @@ animate whole scenes by rolling the palette.
 - [blit386-demos](https://github.com/blit386/blit386-demos) - Interactive demo examples.
 - [GitHub organization](https://github.com/blit386) - All BLIT386 repositories.
 
+## Games
 
+- [Zoom Snake](https://zoomsnake.indiegames.cz) - A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action.
 
 ## Contributing
 
