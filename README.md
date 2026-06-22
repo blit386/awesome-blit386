@@ -1,28 +1,23 @@
 # Awesome BLIT386 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of great BLIT386 links
+> A curated list of great BLIT386 resources - the palette-first WebGPU retro engine for the web.
 
+BLIT386 lets you draw with numbered palette colors instead of RGBA pixels and
+animate whole scenes by rolling the palette.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official](#official)
+- [Games](#games)
 
+## Official
 
-## Section
+- [Documentation](https://blit386.dev) - The official BLIT386 documentation site.
+- [blit386](https://github.com/blit386/blit386) - The engine library ([npm](https://www.npmjs.com/package/blit386)).
+- [create-blit386](https://github.com/blit386/create-blit386) - The `npm create blit386` scaffolder and `@blit386/kit`.
+- [blit386-demos](https://github.com/blit386/blit386-demos) - Interactive demo examples.
+- [GitHub organization](https://github.com/blit386) - All BLIT386 repositories.
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
 ## Contributing
