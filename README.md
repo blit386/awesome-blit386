@@ -28,7 +28,8 @@ animate whole scenes by rolling the palette.
 
 ## Games
 
-- [Zoom Snake](https://zoomsnake.indiegames.cz) - A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action.
+- [Zoom Snake](https://zoomsnake.indiegames.cz) – A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action.
+- [pinballpin](https://github.com/indiegames-cz/blit386-pinballpin) – A little pixel game built with BLIT386.
 
 ## Contributing
 
