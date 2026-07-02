@@ -18,6 +18,14 @@ animate whole scenes by rolling the palette.
 - [blit386-demos](https://github.com/blit386/blit386-demos) - Interactive demo examples.
 - [GitHub organization](https://github.com/blit386) - All BLIT386 repositories.
 
+## Community
+
+- [Discord](https://discord.gg/tC2wGt88Uj)
+- [GitHub Discussions](https://github.com/blit386/blit386/discussions)
+- [X](https://x.com/blit386)
+- [Bluesky](https://bsky.app/profile/blit386.bsky.social)
+- [Mastodon](https://mastodon.gamedev.place/@blit386)
+
 ## Games
 
 - [Zoom Snake](https://zoomsnake.indiegames.cz) - A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action.
