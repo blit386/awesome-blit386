@@ -8,6 +8,7 @@ animate whole scenes by rolling the palette.
 ## Contents
 
 - [Official](#official)
+- [Community](#community)
 - [Games](#games)
 
 ## Official
