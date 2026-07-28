@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+# CodeRabbit configuration for awesome-blit386 (curated resource list).
+#
+# No path_filters: this repo has no generated or duplicated trees to exclude —
+# just hand-authored Markdown (README, contributing guide, code of conduct).
+#
+# Auto review is disabled by default. To enable it, add the `cr` label to the PR.
+reviews:
+  review_status: false
+  path_instructions:
+    - path: '*.md'
+      instructions: >-
+        Curated "awesome list" content (Official / Community / Games sections in README.md, plus contributing.md and
+        code-of-conduct.md). American English spelling, never British equivalents (see blit386's CLAUDE.md, American
+        English spelling, for the workspace-wide policy this repo follows). No emoji anywhere. New entries must fit an
+        existing section rather than inventing a new one; keep links live and pointed at the canonical project, not a
+        fork or mirror.
+  auto_review:
+    enabled: false
+    labels: ['cr']
