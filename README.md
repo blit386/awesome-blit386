@@ -14,9 +14,11 @@ animate whole scenes by rolling the palette.
 ## Official
 
 - [Documentation](https://blit386.dev) – The official BLIT386 documentation site.
-- [blit386](https://github.com/blit386/blit386) – The engine library ([npm](https://www.npmjs.com/package/blit386)).
-- [create-blit386](https://github.com/blit386/create-blit386) – The `npm create blit386` scaffolder and `@blit386/kit`.
-- [blit386-demos](https://github.com/blit386/blit386-demos) – Interactive demo examples.
+- [blit386](https://github.com/blit386/blit386) – The monorepo: the engine library
+  ([npm](https://www.npmjs.com/package/blit386)), the `npm create blit386` scaffolder and `@blit386/kit`
+  ([packages/create-blit386](https://github.com/blit386/blit386/tree/main/packages/create-blit386),
+  [packages/kit](https://github.com/blit386/blit386/tree/main/packages/kit)), and interactive demo examples
+  ([packages/demos](https://github.com/blit386/blit386/tree/main/packages/demos)).
 - [GitHub organization](https://github.com/blit386) – All BLIT386 repositories.
 
 ## Community
