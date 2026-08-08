@@ -1,0 +1,64 @@
+name: Suggest a resource
+description: Propose something for the list without opening a pull request
+title: '[suggest] '
+labels:
+  - suggestion
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A pull request adding the entry yourself is faster and usually gets merged sooner – see
+        [CONTRIBUTING.md](https://github.com/blit386/awesome-blit386/blob/main/CONTRIBUTING.md). Use this form when you
+        would rather someone else add it, or when you are unsure whether it belongs.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: How the entry should be titled
+      placeholder: Zoom Snake
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: A direct link to the resource, not to a search or an index page
+      placeholder: https://example.com/my-game
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: >
+        Starts with an uppercase letter, ends with a period. Short and factual, no marketing language and no emoji.
+      placeholder: A high-speed arcade take on Snake with a dynamic zoom.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Games
+        - Community
+        - Official
+        - Something new (say which below)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: It uses a published release of BLIT386 (1.0.0 or later)
+          required: true
+        - label: The link works and points directly at the resource
+          required: true
+        - label: It is not already on the list
+          required: true
