@@ -1,0 +1,44 @@
+name: Problem with an existing entry
+description: A listed link is dead, moved, or described wrongly
+title: '[entry] '
+labels:
+  - entry-problem
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a link that has turned **malicious or been taken over**, do not use this form and do not open a public
+        issue – report it privately through
+        [the advisory form](https://github.com/blit386/blit386/security/advisories/new) so it can be removed before it
+        is advertised. See [SECURITY.md](https://github.com/blit386/awesome-blit386/blob/main/SECURITY.md).
+
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry
+      description: The name as it appears on the list
+      placeholder: Pong on BLIT386
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - Link is dead
+        - Link moved to a new address
+        - Description is inaccurate or out of date
+        - Project is abandoned
+        - Wrong section
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: What you saw, and the replacement link if you have one
+    validations:
+      required: true
