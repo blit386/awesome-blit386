@@ -31,11 +31,11 @@ animate whole scenes by rolling the palette.
 
 ## Games
 
-- [Zoom Snake](https://zoomsnake.indiegames.cz) – A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action (by @chemix)
-- [pinballpin](https://github.com/indiegames-cz/blit386-pinballpin) – A little pixel game built with BLIT386 (by @chemix)
-- [Pong on BLIT386](https://github.com/bzzzwa/Pong-on-Blit386) – A Pong clone built with BLIT386 (by @bzzzwa) – [live](https://bzzzwa.github.io/Pong-on-Blit386/)
-- [Hexarotato](https://hexarotato.indiegames.cz) – Hexarotato (by @chemix)
-- [Buckets Manager](https://github.com/sigy/buckets-manager) – Buckets Manager (by @sigy) – [live](https://basketball-manager.sigy.workers.dev/)
+- [Zoom Snake](https://zoomsnake.indiegames.cz) – A high-speed arcade take on Snake with a dynamic zoom that keeps you in the action (by [@chemix](https://github.com/chemix))
+- [pinballpin](https://github.com/indiegames-cz/blit386-pinballpin) – A little pixel game built with BLIT386 (by [@chemix](https://github.com/chemix))
+- [Pong on BLIT386](https://github.com/bzzzwa/Pong-on-Blit386) – A Pong clone built with BLIT386 (by [@bzzzwa](https://github.com/bzzzwa)) – [live](https://bzzzwa.github.io/Pong-on-Blit386/)
+- [Hexarotato](https://hexarotato.indiegames.cz) – Hexarotato (by [@chemix](https://github.com/chemix))
+- [Buckets Manager](https://github.com/sigy/buckets-manager) – Buckets Manager (by [@sigy](https://github.com/sigy)) – [live](https://basketball-manager.sigy.workers.dev/)
 
 ## Contributing
 
