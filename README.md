@@ -36,6 +36,7 @@ animate whole scenes by rolling the palette.
 - [Hexarotato](https://hexarotato.indiegames.cz) – Hexarotato (by [@chemix](https://github.com/chemix))
 - [Buckets Manager](https://github.com/sigy/buckets-manager) – Buckets Manager (by [@sigy](https://github.com/sigy)) – [live](https://basketball-manager.sigy.workers.dev/)
 - [Josepho](https://github.com/bzzzwa/josepho) – A platformer in the spirit of Mario and SuperTux on a tiny 192×108 screen (by [@bzzzwa](https://github.com/bzzzwa)) – [live](https://bzzzwa.github.io/josepho/)
+- [Blit386Blaster](https://github.com/profexorgeek/Blit386Blaster) – Multiplayer asteroids in the browser, built with the BLIT386 engine, plus a tiny game-agnostic WebSocket relay. (by [@profexorgeek](https://github.com/profexorgeek)) – [live](https://justindjohnson.com/blitblaster/)
 
 ## Contributing
 
